@@ -1,4 +1,4 @@
 mysql: 
   url: jdbc:mysql://localhost:3306/test?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Shanghai&useSSL=false&allowMultiQueries=true
 lagou: 
-  msg: hello,lagou! 300
+  msg: hello,lagou! 400
